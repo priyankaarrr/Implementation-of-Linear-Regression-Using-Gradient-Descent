@@ -21,7 +21,7 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 ```
-Name : Priyanka 
+Name : Priyanka.R 
 Reg no : 212223220081
 ```
 ```
